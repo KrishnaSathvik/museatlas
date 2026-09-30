@@ -62,3 +62,11 @@ Structured content lives in `src/data/`. Primary sources are accessible only thr
 ## Stack
 
 Next.js 16 · React 19 · Tailwind CSS 4 · TypeScript · Syne + IBM Plex
+
+## Google Analytics and Search Console
+
+Google Analytics uses the site's public GA4 measurement ID `G-Y4EHHM14HF`. The tag loads after hydration on indexable production builds and initializes only on `www.museatlas.app`, keeping local and preview traffic out of the property. Page views use Google's automatic measurement; keep **Enhanced measurement → Page views → Page changes based on browser history events** enabled in the web stream so client-side navigation is recorded. No additional manual page-view handler is installed, avoiding duplicate events.
+
+Search Console ownership uses `/google4ab21dcd5cd8bd84.html`. Keep this file published after verification. Once the deployment containing it is live, choose **Verify** in Search Console and submit `https://www.museatlas.app/sitemap.xml`. Confirm real visits in Analytics Realtime or Google Tag Assistant; a successful build alone does not confirm receipt by Google.
+
+Implementation reference: [Google's page-view measurement guidance](https://developers.google.com/analytics/devguides/collection/ga4/views).

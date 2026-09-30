@@ -4,6 +4,7 @@ import { IBM_Plex_Mono, IBM_Plex_Sans, Syne } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
+import { GoogleAnalytics } from "@/components/GoogleAnalytics";
 import {
   SITE_DESCRIPTION,
   SITE_INDEXABLE,
@@ -66,6 +67,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <Header />
         <div className="flex-1">{children}</div>
         <Footer />
+        <GoogleAnalytics />
       </body>
     </html>
   );
