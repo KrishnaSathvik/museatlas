@@ -1,0 +1,209 @@
+{
+  "masterPrompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product.",
+  "method": "Built-in ChatGPT image generation",
+  "assets": [
+    {
+      "id": "browser-based-website-development",
+      "path": "/illustrations/browser-based-website-development.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A code editor on the left linked to a polished browser webpage on the right; a magnifying lens checks the page layout and a second corrected layout appears as a small inset. Distinct code-to-browser-to-inspection story.",
+      "generatedFile": "exec-cc8bc567-23f6-4e8d-9b2e-641972f7c54e.png",
+      "status": "generated"
+    },
+    {
+      "id": "iterative-game-development",
+      "path": "/illustrations/iterative-game-development.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: Code editor next to a game window showing a geometric blue platform game with a ball and obstacles; a small bug marker and loop arrow lead to a corrected playable scene. Game world dominates.",
+      "generatedFile": "exec-7df07f62-e940-416b-b3eb-a63008752fca.png",
+      "status": "generated"
+    },
+    {
+      "id": "multi-agent-product-studio",
+      "path": "/illustrations/multi-agent-product-studio.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: Four distinct workspaces arranged around one shared result: a product wireframe, frontend layout, backend nodes, and writing document. Fine connections converge on a finished application.",
+      "generatedFile": "exec-96b1d977-9d2c-47e5-ab26-8b14f7aacb56.png",
+      "status": "generated"
+    },
+    {
+      "id": "github-automation",
+      "path": "/illustrations/github-automation.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A horizontal workflow of an issue ticket, a small computational core, a split code diff, review comment bubble, and merging git branches. Strong git branch geometry; no browser hero.",
+      "generatedFile": "exec-910c3141-66e8-4a97-bccf-27c6b83a6724.png",
+      "status": "generated"
+    },
+    {
+      "id": "computer-use-on-linux",
+      "path": "/illustrations/computer-use-on-linux.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A desktop monitor with overlapping browser and file-manager windows, folder icons, and a large cursor following a dotted action path between windows. Subtle desktop taskbar.",
+      "generatedFile": "exec-d73af031-9d87-414e-be7b-8499b32df12a.png",
+      "status": "generated"
+    },
+    {
+      "id": "local-code-review-with-glimmer",
+      "path": "/illustrations/local-code-review-with-glimmer.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: An open laptop enclosing source files, a small blue processor and a code review report with margin annotations. Everything visibly contained inside the laptop boundary; no cloud.",
+      "generatedFile": "exec-d88da46c-a841-4b2e-9538-73d70fecb2fb.png",
+      "status": "generated"
+    },
+    {
+      "id": "screenshot-bug-fixing",
+      "path": "/illustrations/screenshot-bug-fixing.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: Before and after interface screenshots side by side, the first with a clearly misaligned element circled, a source-file edit between them, and the second with aligned layout. Magnifying crop of the defect.",
+      "generatedFile": "exec-2727dc61-035a-42e1-95ca-89da72f79097.png",
+      "status": "generated"
+    },
+    {
+      "id": "scheduled-monitoring",
+      "path": "/illustrations/scheduled-monitoring.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A calendar and horizontal clock timeline with repeating inspection marks, one detected condition highlighted in blue, and a notification panel. Time and recurrence are the main visual.",
+      "generatedFile": "exec-841c9adc-56a8-4792-bd77-3655df82f795.png",
+      "status": "generated"
+    },
+    {
+      "id": "voice-controlled-application",
+      "path": "/illustrations/voice-controlled-application.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: An audio waveform flowing into transcript lines, then an intent symbol, then a chessboard application with one blue piece moved. Voice-to-action sequence.",
+      "generatedFile": "exec-6b4e8a1d-1523-4711-8da6-db38c41ed5c2.png",
+      "status": "generated"
+    },
+    {
+      "id": "parallel-worktrees",
+      "path": "/illustrations/parallel-worktrees.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A repository branching into three separated workspace panes with different code changes, then merging into one reviewed source tree. Clear branching and convergence geometry.",
+      "generatedFile": "exec-ecf62453-310d-4812-8e35-32582eae5612.png",
+      "status": "generated"
+    },
+    {
+      "id": "use-software-development",
+      "path": "/illustrations/use-software-development.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A repository folder fans out into an inspection lens, editable code pane and test-results column. A complete inspect-change-test flow on a developer workbench.",
+      "generatedFile": "exec-bff787fd-bce5-403b-a6eb-6c58fa757eda.png",
+      "status": "generated"
+    },
+    {
+      "id": "use-research",
+      "path": "/illustrations/use-research.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: Web source, PDF pages and notes arranged around a central comparison area, converging into a clear report with source markers. Documents and synthesis, no generic browser placeholder.",
+      "generatedFile": "exec-cad6e740-bdc5-4bd2-b50a-96f106a84548.png",
+      "status": "generated"
+    },
+    {
+      "id": "use-computer-automation",
+      "path": "/illustrations/use-computer-automation.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A cursor navigates from a browser form to a spreadsheet and file manager, with an approval check before the final submitted form. Desktop task completion.",
+      "generatedFile": "exec-19a7b58d-dd24-4f11-b10a-7ba0f0b1b0b2.png",
+      "status": "generated"
+    },
+    {
+      "id": "use-local-ai",
+      "path": "/illustrations/use-local-ai.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A laptop with a processor at its center and local documents and tools enclosed inside a fine boundary. Offline local workspace, no outside connections.",
+      "generatedFile": "exec-64b15b56-9304-42cb-8577-329683e0158b.png",
+      "status": "generated"
+    },
+    {
+      "id": "use-voice",
+      "path": "/illustrations/use-voice.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A microphone and waveform flowing into alternating speaker transcript lines and clean meeting notes. Audio and readable structure conveyed without actual words.",
+      "generatedFile": "exec-3fa3a251-a16e-487a-ac3a-65b826fc84cb.png",
+      "status": "generated"
+    },
+    {
+      "id": "use-images",
+      "path": "/illustrations/use-images.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A creative workbench showing a short prompt-like set of marks, three image compositions of a blue sculptural object, a crop selection, and a final framed image.",
+      "generatedFile": "exec-089cd0ae-1217-4b67-8ec2-68a44c113f8b.png",
+      "status": "generated"
+    },
+    {
+      "id": "use-business-workflows",
+      "path": "/illustrations/use-business-workflows.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: Email envelope, calendar and document connected in a coherent office workflow; one approval gate before a completed outgoing message.",
+      "generatedFile": "exec-ccc6b3af-eb3b-49dc-ae37-429b65cd650f.png",
+      "status": "generated"
+    },
+    {
+      "id": "use-personal-productivity",
+      "path": "/illustrations/use-personal-productivity.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A day-planning calendar alongside a short task list, clock reminder and completed itinerary. Calm personal organization, restrained blue highlights.",
+      "generatedFile": "exec-e6ef646e-8e1d-4641-b3d9-38184c0c77d1.png",
+      "status": "generated"
+    },
+    {
+      "id": "product-spark",
+      "path": "/illustrations/product-spark.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A central computational engine connected to a code editor, browser and file stack. Inputs converge into reasoning paths and branch into tools before joining a reviewed result. Sophisticated workflow-oriented illustration.",
+      "generatedFile": "exec-4313e88d-1143-4ab7-bcef-262fe102467c.png",
+      "status": "generated"
+    },
+    {
+      "id": "product-glimmer",
+      "path": "/illustrations/product-glimmer.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: Close-up laptop cutaway containing a large blue processor, local file system and small tool modules; a solid perimeter makes hardware containment obvious. Precise hardware-oriented illustration.",
+      "generatedFile": "exec-b652c10f-fb9d-4cff-b981-e86e5ef09f47.png",
+      "status": "generated"
+    },
+    {
+      "id": "product-code",
+      "path": "/illustrations/product-code.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A developer editor with repository tree, code diff, terminal and test output, arranged as one credible coding workspace. Fine arrow follows a change from source file into passing checks.",
+      "generatedFile": "exec-be87c4d7-3a6c-400e-a825-6f87829ef3c9.png",
+      "status": "generated"
+    },
+    {
+      "id": "product-image",
+      "path": "/illustrations/product-image.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: An editorial creative board showing three genuinely rendered images of a sculptural cobalt-blue ceramic vessel on pale gray: initial simple vessel, revised ribbed vessel, final beautifully lit ribbed vessel. Include small crop and editing handles. The rendered art is the focus.",
+      "generatedFile": "exec-1b5584f4-5808-4c63-8669-f5fde37e2a9d.png",
+      "status": "generated"
+    },
+    {
+      "id": "product-voice",
+      "path": "/illustrations/product-voice.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A rich blue audio waveform over a horizontal time axis, flowing into alternating speaker transcript panels and a turn-detection marker. Speech-to-text identity, no speakers or voice-output icons.",
+      "generatedFile": "exec-8d05a364-11b0-425d-9e09-47ee59844126.png",
+      "status": "generated"
+    },
+    {
+      "id": "product-video",
+      "path": "/illustrations/product-video.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A film-editing timeline with four frames of a blue sculptural paper bird slowly opening its wings; audio waveform beneath and playhead over the third frame. Storyboard concept, no real product controls or branding.",
+      "generatedFile": "exec-24e1f8e1-af49-472b-b216-c0a5d59aca59.png",
+      "status": "generated"
+    },
+    {
+      "id": "product-muse",
+      "path": "/illustrations/product-muse.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A personal task workspace with a request bubble, a browser, a document and a review-ready result arranged as a calm working environment. No orbit or constellation diagram.",
+      "generatedFile": "exec-7d328fc1-a05e-49b6-b671-7d7148136d0c.png",
+      "status": "generated"
+    },
+    {
+      "id": "safety-workspace",
+      "path": "/illustrations/safety-workspace.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A desktop account outside a clearly separated workspace boundary containing browser, files and code. Fine access line through a controlled entry point. Visual focus is separation.",
+      "generatedFile": "exec-1e6b09df-5f4f-4788-a555-b77aad564e1a.png",
+      "status": "generated"
+    },
+    {
+      "id": "safety-accounts",
+      "path": "/illustrations/safety-accounts.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A computational core requesting access through a permission gate to a locked credential vault, then to an account. Credentials remain within the vault, never pass through the core.",
+      "generatedFile": "exec-bebd3b2b-0272-468e-ad62-c1a72e71d43e.png",
+      "status": "generated"
+    },
+    {
+      "id": "safety-approval",
+      "path": "/illustrations/safety-approval.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A proposed outgoing message paused at a permission panel with two equally clear choices represented by a check and a cross. A human decision interrupts the outgoing path.",
+      "generatedFile": "exec-e41bf10b-2eb4-470f-9056-99fdb7e6032b.png",
+      "status": "generated"
+    },
+    {
+      "id": "safety-outside",
+      "path": "/illustrations/safety-outside.png",
+      "prompt": "Minimal editorial software-product illustration. Landscape 4:3 composition. Off-white #f7f8fa and pale gray surfaces, fine black technical linework, restrained electric-blue #0668e1 accents, crisp UI elements, subtle shadows, almost front-on perspective. One clear visual story with generous negative space. No gradients, no decorative text, no logos, no robots, no generic AI glow, no stock imagery. No readable text; use interface marks and icons. All content inset safely from edges. Consistent visual weight and finish across the Muse Explained illustration library. This is an explanatory illustration, not a screenshot of a real product. Subject: A webpage with a suspicious embedded instruction marked by a small warning triangle; it passes through a screening gate, with an unauthorized outgoing file path visibly stopped.",
+      "generatedFile": "exec-e96ae265-6d36-497e-a1ec-76d0df7d6729.png",
+      "status": "generated"
+    }
+  ]
+}

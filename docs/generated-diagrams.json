@@ -1,0 +1,153 @@
+[
+  {
+    "id": "architecture-main",
+    "path": "/diagrams/architecture-main.png",
+    "generatedFile": "exec-06a1b83f-11c3-442b-b49f-b3eb6389aea6.png",
+    "method": "Built-in ChatGPT image generation"
+  },
+  {
+    "id": "browser-based-website-development",
+    "path": "/diagrams/browser-based-website-development.png",
+    "generatedFile": "exec-e16c39b6-1bbb-4eee-bcff-4c7bd1290d3b.png",
+    "method": "Built-in ChatGPT image generation",
+    "spec": [
+      "browser-based-website-development",
+      "Website development",
+      "Write code \u2192 Open browser \u2192 Inspect visually \u2192 Correct \u2192 Validate",
+      "Muse Spark \u2022 Browser tools \u2022 Vision"
+    ]
+  },
+  {
+    "id": "iterative-game-development",
+    "path": "/diagrams/iterative-game-development.png",
+    "generatedFile": "exec-9d362a67-27a1-4f2f-bdbd-b9f15b9c84ff.png",
+    "method": "Built-in ChatGPT image generation",
+    "spec": [
+      "iterative-game-development",
+      "Iterative game development",
+      "Generate \u2192 Execute \u2192 Playtest \u2192 Detect issues \u2192 Modify \u2192 Rerun",
+      "Muse Spark \u2022 Browser tools \u2022 Three.js"
+    ]
+  },
+  {
+    "id": "multi-agent-product-studio",
+    "path": "/diagrams/multi-agent-product-studio.png",
+    "generatedFile": "exec-385251cb-4ee2-4ee2-b41f-145959d2e6e1.png",
+    "method": "Built-in ChatGPT image generation",
+    "spec": [
+      "multi-agent-product-studio",
+      "Multi-agent product studio",
+      "Coordinator \u2192 Specialized workers \u2192 Review \u2192 Merge",
+      "Muse Spark \u2022 Isolated workspaces \u2022 Git"
+    ],
+    "revision": "Worker roles: Product manager, Frontend, Backend, Technical writer"
+  },
+  {
+    "id": "github-automation",
+    "path": "/diagrams/github-automation.png",
+    "generatedFile": "exec-e923c182-deeb-4577-b1cb-329bf18861d0.png",
+    "method": "Built-in ChatGPT image generation",
+    "spec": [
+      "github-automation",
+      "GitHub automation",
+      "Repository event \u2192 Triage \u2192 Review \u2192 Patch \u2192 Validate",
+      "Muse Spark \u2022 GitHub \u2022 Muse Code patterns"
+    ]
+  },
+  {
+    "id": "computer-use-on-linux",
+    "path": "/diagrams/computer-use-on-linux.png",
+    "generatedFile": "exec-5544f922-7aab-4693-8ebd-588f92292582.png",
+    "method": "Built-in ChatGPT image generation",
+    "spec": [
+      "computer-use-on-linux",
+      "Computer use on Linux",
+      "Observe interface \u2192 Plan \u2192 Act \u2192 Verify",
+      "Muse Spark \u2022 Computer-use tooling"
+    ]
+  },
+  {
+    "id": "local-code-review-with-glimmer",
+    "path": "/diagrams/local-code-review-with-glimmer.png",
+    "generatedFile": "exec-9038d006-47e0-4b33-99bc-24c77a827ce5.png",
+    "method": "Built-in ChatGPT image generation",
+    "spec": [
+      "local-code-review-with-glimmer",
+      "Local code review",
+      "Local model \u2192 Filesystem tools \u2192 Review \u2192 Report on disk",
+      "Muse Glimmer \u2022 Filesystem tools \u2022 Local runtime"
+    ]
+  },
+  {
+    "id": "screenshot-bug-fixing",
+    "path": "/diagrams/screenshot-bug-fixing.png",
+    "generatedFile": "exec-4f32d91b-140d-43d1-a2c5-f7c0bccc8d42.png",
+    "method": "Built-in ChatGPT image generation",
+    "spec": [
+      "screenshot-bug-fixing",
+      "Screenshot bug fixing",
+      "Screenshot \u2192 Diagnose \u2192 Locate code \u2192 Patch \u2192 Validate",
+      "Muse Spark \u2022 Vision \u2022 Repository tools"
+    ]
+  },
+  {
+    "id": "scheduled-monitoring",
+    "path": "/diagrams/scheduled-monitoring.png",
+    "generatedFile": "exec-649534c4-6b6e-4720-8037-6383d582bec2.png",
+    "method": "Built-in ChatGPT image generation",
+    "spec": [
+      "scheduled-monitoring",
+      "Scheduled monitoring",
+      "Schedule \u2192 Wake \u2192 Inspect \u2192 Act or alert \u2192 Sleep",
+      "Muse Spark \u2022 Schedulers \u2022 Muse Code workflows"
+    ]
+  },
+  {
+    "id": "parallel-worktrees",
+    "path": "/diagrams/parallel-worktrees.png",
+    "generatedFile": "exec-5aef10ba-90e5-4bb6-81b6-078c55a682bd.png",
+    "method": "Built-in ChatGPT image generation",
+    "spec": [
+      "parallel-worktrees",
+      "Parallel Git worktrees",
+      "Split tasks \u2192 Isolated workers \u2192 Merge \u2192 Validate",
+      "Muse Code \u2022 Git worktrees \u2022 Muse Spark"
+    ]
+  },
+  {
+    "id": "voice-controlled-application",
+    "path": "/diagrams/voice-controlled-application.png",
+    "generatedFile": "exec-de104026-5cae-494c-a504-af39abfed97c.png",
+    "method": "Built-in ChatGPT image generation",
+    "spec": [
+      "voice-controlled-application",
+      "Voice-controlled application",
+      "Speech \u2192 Transcription \u2192 Intent \u2192 Application action",
+      "Muse Voice Transcribe \u2022 Interactive application"
+    ]
+  },
+  {
+    "id": "muse-family",
+    "path": "/diagrams/muse-family.png",
+    "generatedFile": "exec-d68bd6bf-00b5-4781-8f56-c058fd90e0a2.png",
+    "method": "Built-in ChatGPT image generation",
+    "spec": [
+      "muse-family",
+      "The Muse family",
+      "Muse at the center, connected to six evenly spaced cards: Spark (Reasoning), Glimmer (Local AI), Code (Software), Image (Create images), Voice (Speech to text), Video (Media preview)",
+      "Models, software and tools"
+    ]
+  },
+  {
+    "id": "architecture-local",
+    "path": "/diagrams/architecture-local.png",
+    "generatedFile": "exec-7a67ad82-809f-4d27-a077-6fa0ab18320b.png",
+    "method": "Built-in ChatGPT image generation",
+    "spec": [
+      "architecture-local",
+      "Inside your environment",
+      "Your request \u2192 Glimmer \u2192 Context and planning \u2192 Local tools: Browser, Files, Code \u2192 Result and review. Enclose all in a boundary labeled Your computer. One optional connection through Permissions to External services.",
+      "The model reasons. Your runtime executes tools."
+    ]
+  }
+]

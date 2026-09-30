@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "browser-based-website-development",
+    "path": "/examples/browser-based-website-development.png",
+    "source": "https://raw.githubusercontent.com/meta-models/meta-model-cookbook/main/03_use_cases/05_web_design/screenshots/11_browser_after_resting.png",
+    "recipe": "https://github.com/meta-models/meta-model-cookbook/tree/main/03_use_cases/05_web_design",
+    "kind": "example-screenshot"
+  },
+  {
+    "slug": "iterative-game-development",
+    "path": "/examples/iterative-game-development.png",
+    "source": "https://raw.githubusercontent.com/meta-models/meta-model-cookbook/main/03_use_cases/06_iterative_game_dev/screenshots/14_browser_final_driving.png",
+    "recipe": "https://github.com/meta-models/meta-model-cookbook/tree/main/03_use_cases/06_iterative_game_dev",
+    "kind": "example-screenshot"
+  },
+  {
+    "slug": "multi-agent-product-studio",
+    "path": "/examples/multi-agent-product-studio.png",
+    "source": "https://raw.githubusercontent.com/meta-models/meta-model-cookbook/main/03_use_cases/08_multi_agent_orchestration/assets/08-completed-task-drawer.png",
+    "recipe": "https://github.com/meta-models/meta-model-cookbook/tree/main/03_use_cases/08_multi_agent_orchestration",
+    "kind": "example-screenshot"
+  },
+  {
+    "slug": "computer-use-on-linux",
+    "path": "/examples/computer-use-on-linux.png",
+    "source": "https://raw.githubusercontent.com/meta-models/meta-model-cookbook/main/03_use_cases/12_computer_use/screenshots/05_game_board.png",
+    "recipe": "https://github.com/meta-models/meta-model-cookbook/tree/main/03_use_cases/12_computer_use",
+    "kind": "example-screenshot"
+  },
+  {
+    "slug": "screenshot-bug-fixing",
+    "path": "/examples/screenshot-bug-fixing.png",
+    "source": "https://raw.githubusercontent.com/meta-models/meta-model-cookbook/main/03_use_cases/02_screenshot_bugfix/assets/04-dialog-footer-overlap.png",
+    "recipe": "https://github.com/meta-models/meta-model-cookbook/tree/main/03_use_cases/02_screenshot_bugfix",
+    "kind": "example-screenshot"
+  },
+  {
+    "slug": "scheduled-monitoring",
+    "path": "/examples/scheduled-monitoring.png",
+    "source": "https://raw.githubusercontent.com/meta-models/meta-model-cookbook/main/04_muse_code/09_loop_and_cron/assets/01_loop_bug_digest.png",
+    "recipe": "https://github.com/meta-models/meta-model-cookbook/tree/main/04_muse_code/09_loop_and_cron",
+    "kind": "example-screenshot"
+  },
+  {
+    "slug": "parallel-worktrees",
+    "path": "/examples/parallel-worktrees.png",
+    "source": "https://raw.githubusercontent.com/meta-models/meta-model-cookbook/main/04_muse_code/06_subagent_fanout/assets/02b_native_isolation.png",
+    "recipe": "https://github.com/meta-models/meta-model-cookbook/tree/main/04_muse_code/06_subagent_fanout",
+    "kind": "example-screenshot"
+  },
+  {
+    "slug": "voice-controlled-application",
+    "path": "/examples/voice-controlled-application.jpg",
+    "source": "https://raw.githubusercontent.com/meta-models/meta-model-cookbook/main/06_muse_voice/02_voice_chess_cua/assets/voice-cua-chess-poster.jpg",
+    "recipe": "https://github.com/meta-models/meta-model-cookbook/tree/main/06_muse_voice/02_voice_chess_cua",
+    "kind": "example-screenshot"
+  },
+  {
+    "slug": "github-automation",
+    "path": "/examples/github-automation.png",
+    "source": "https://github.com/meta-models/meta-model-cookbook/tree/main/03_use_cases/11_github_repo_agent",
+    "recipe": "https://github.com/meta-models/meta-model-cookbook/tree/main/03_use_cases/11_github_repo_agent",
+    "kind": "recipe-screenshot"
+  },
+  {
+    "slug": "local-code-review-with-glimmer",
+    "path": "/examples/local-code-review-with-glimmer.png",
+    "source": "https://github.com/meta-models/meta-oss-cookbook/tree/main/agentic-fundamentals",
+    "recipe": "https://github.com/meta-models/meta-oss-cookbook/tree/main/agentic-fundamentals",
+    "kind": "recipe-screenshot"
+  }
+]
