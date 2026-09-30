@@ -185,11 +185,11 @@
 .explanation .statement {font-size:24px;line-height:1.5;color:var(--ink);margin-top:24px;}
 .explanation p {margin-top:20px;}
 .process { display:flex; list-style:none; padding:0; margin:32px 0; }
-.process li { flex:1; position:relative; padding-right:18px; font-size:15px; }
-.process li:before {content:"";position:absolute;left:0;right:0;top:20px;border-top:1px solid var(--rule-strong);}
+.process li { flex:1; min-width:0; position:relative; display:flex; flex-direction:column; align-items:flex-start; gap:16px; padding-right:24px; font-size:15px; }
+.process li:before {content:"";position:absolute;left:36px;right:0;top:18px;border-top:1px solid var(--rule-strong);}
 .process li:last-child:before{display:none;}
-.process-dot {position:relative;display:flex;width:40px;height:40px;border-radius:50%;background:var(--wash);align-items:center;justify-content:center;font-size:12px;margin-bottom:18px;color:var(--signal);border:1px solid var(--rule-strong);}
-.process strong {font-weight:500;}
+.process-dot {position:relative;display:flex;width:40px;height:40px;border-radius:50%;background:var(--wash);align-items:center;justify-content:center;font-size:12px;margin:0;color:var(--signal);border:1px solid var(--rule-strong);}
+.process strong {display:block;font-weight:500;line-height:1.5;}
 .explain-captions{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;font-size:14px;}
 .product-directory{display:grid;grid-template-columns:1.2fr 1.2fr 1fr;gap:40px;}
 .directory-group>h3{padding-bottom:16px;border-bottom:1px solid var(--rule-strong);font-size:14px;font-family:var(--font-body);font-weight:500;color:var(--muted);}
@@ -256,13 +256,12 @@
 .page-intro:has(+ .source-control){padding-bottom:20px;}
 @media(hover:hover){.choice-tile{position:relative;}.choice-tile:hover,.choice-tile:focus-visible{z-index:2;}.choice-preview{position:absolute;top:calc(100% - 10px);left:20px;right:20px;margin:0;background:white;border:1px solid var(--rule-strong);border-radius:8px;padding:18px;box-shadow:0 10px 30px #11111112;pointer-events:none;}}
 @media(max-width:380px){.stage-picker{grid-template-columns:1fr 1fr;gap:24px 16px;}.stage-picker h3{font-size:17px;}.architecture-branch{gap:10px;}.comparison-table th,.comparison-table td{font-size:12px;}}
-@media(max-width:380px){
+@media(max-width:760px){
   .process:has(li:nth-child(4)){flex-direction:column;}
-  .process:has(li:nth-child(4)) li{display:flex;align-items:center;gap:16px;padding:0 0 20px;}
+  .process:has(li:nth-child(4)) li{display:grid;grid-template-columns:36px minmax(0,1fr);align-items:center;gap:16px;padding:0 0 24px;}
   .process:has(li:nth-child(4)) li:last-child{padding-bottom:0;}
-  .process:has(li:nth-child(4)) li:before{left:20px;right:auto;top:20px;bottom:0;border-top:0;border-left:1px solid var(--rule-strong);}
-  .process:has(li:nth-child(4)) .process-dot{margin:0;flex-shrink:0;}
-  .process:has(li:nth-child(4)) strong{font-size:15px;}
+  .process:has(li:nth-child(4)) li:before{left:18px;right:auto;top:36px;bottom:0;border-top:0;border-left:1px solid var(--rule-strong);}
+  .process:has(li:nth-child(4)) strong{font-size:16px;}
 }
 
 /* Explanations remain visible without disclosures, tabs, or hover. */
@@ -314,7 +313,10 @@
 .overview-updates {padding-top:36px;}
 .overview-updates time {display:block;font-size:13px;color:var(--muted);margin-bottom:12px;}
 .safety-statement h2 {font-size:26px;margin-bottom:12px;}
-.capability-list {display:grid;grid-template-columns:1fr 1fr;gap:16px 40px;padding-left:20px;}
+.capability-list {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:28px 0 0;padding:0;list-style:none;}
+.capability-list li {position:relative;margin:0;padding:24px 24px 24px 48px;border:1px solid var(--rule);border-radius:12px;background:var(--wash);}
+.capability-list li::before {content:"";position:absolute;left:24px;top:calc(24px + .65em);width:7px;height:7px;border-radius:50%;background:var(--signal);}
+@media(min-width:1100px){.capability-list{grid-template-columns:repeat(3,minmax(0,1fr));}}
 .advanced-view>h2 {margin-bottom:28px;}
 .search-count {padding:12px 16px 4px;font-size:12px;color:var(--muted);}
 .search-group h2 {font-size:13px;font-weight:600;padding:14px 12px 5px;color:var(--muted);}
@@ -369,7 +371,6 @@
   white-space:nowrap;
   overflow-wrap:normal;
 }
-.process li:before {top:18px;}
 
 /* Desktop reading scale for the fluid page layout. */
 @media (min-width: 1024px) {
